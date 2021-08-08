@@ -1,0 +1,61 @@
+.kolom_kanan {
+    text-align: right;
+  }
+
+  .menu_makanan {
+    border:1px solid gray;
+    padding:10px;
+    border-radius: 3px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+  }
+
+  .harga_menu {
+    float:right;
+  }
+
+  #kotak_utama {
+    padding:20px;
+    margin:20px;
+    background-color: rgb(243, 243, 243);
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    width: 300px;
+  }
+
+  #judul {
+    padding:0px;
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    color: blue;
+  }
+
+  .baris_antara{
+    padding:5px;
+  }
+
+  .total_val {
+    float: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .teks_pesan{
+    font-size: 10px;
+    color: white;
+    font-weight:lighter;
+    border:0px solid dark;
+    background-color: rgba(255,0,0,80%);
+    padding: 4px;
+    border-radius: 3px;
+  }
+
+  #total_item {
+    padding:10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+  }
